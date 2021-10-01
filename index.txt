@@ -1,0 +1,164 @@
+Persistency_Flag; Non-Persistent = 0, Persistent = 1
+
+Gender; Male = 0, Female = 1
+
+Race; African American = 0, Asian = 1, Caucasian = 2, Other/Unknown = blank
+
+Ethnicity; Hispanic = 0, Not Hispanic = 1, Unknown = blank
+
+Region; Midwest = 0, Northeast = 1, Other/Unknown = blank, South = 3, West = 4
+
+Age_Bucket; <55 = 0, >75 = 1, 55-65 = 2, 65-75 = 3
+
+Ntm_Speciality; CARDIOLOGY = 0, CLINICAL NURSE SPECIALIST = 1, 
+EMERGENCY MEDICINE = 2, 
+ENDOCRINOLOGY = 3, GASTROENTEROLOGY = 4, GENERAL PRACTITIONER = 5, 
+GERIATRIC MEDICINE = 6, 
+HEMATOLOGY & ONCOLOGY = 7, HOSPICE AND PALLIATIVE MEDICINE = 8, 
+HOSPITAL MEDICINE = 9, 
+NEPHROLOGY = 10, NEUROLOGY = 11, NUCLEAR MEDICINE = 12, 
+OBSTETRICS & OBSTETRICS & GYNECOLOGY & OBSTETRICS & GYNECOLOGY = 13, 
+OBSTETRICS AND GYNECOLOGY = 14, OCCUPATIONAL MEDICINE = 15, ONCOLOGY = 16, 
+OPHTHALMOLOGY = 17, 
+ORTHOPEDIC SURGERY = 18, ORTHOPEDICS = 19, OTOLARYNGOLOGY = 20, PAIN MEDICINE = 21, 
+PATHOLOGY = 22, 
+PEDIATRICS = 23, PHYSICAL MEDICINE AND REHABILITATION = 24, PLASTIC SURGERY = 25, 
+PODIATRY = 26, 
+PSYCHIATRY AND NEUROLOGY = 27, PULMONARY MEDICINE = 28, RADIOLOGY = 29, 
+RHEUMATOLOGY = 30, 
+SURGERY AND SURGICAL SPECIALTIES = 31, TRANSPLANT SURGERY = 32, Unknown = blank, 
+UROLOGY = 34, 
+VASCULAR SURGERY = 35
+
+
+Ntm_Specialist_Flag; Others = 0, specialist = 1
+
+Ntm_Speciality_Bucket; Endo/Onc/Uro = 0, OB/GYN/Others/PCP/ = 1, Rheum = 2
+
+Ntm_Speciality_Flag; Endo/Onc/Uro = 0, OB/GYN/Others/PCP/Unknown = 1, Rheum = 2
+
+Gluco_Record_Prior_Ntm; N = 0, Y = 1
+
+Gluco_Record_During_Rx; N = 0, Y = 1
+
+Dexa_During_Rx; N = 0, Y = 1
+
+Frag_Frac_Prior_Ntm; N = 0, Y = 1
+
+Frag_Frac_During_Ntm; N = 0, Y = 1
+
+Risk_Segment_Prior_Ntm; HR_VHR = 0, VLR_LR = 1
+
+Risk Segment During Rx; HR_VHR = 0, VLR_LR = 1
+
+Tscore_Bucket_Prior_Ntm; <=2.5 = 0, >2.5 = 1
+
+Risk_Segment_During_Ntm; HR_VHR = 0, VLR_LR = 1, unknown = blank
+
+Tscore_Bucket_During_Ntm; <=2.5 = 0, >2.5 = 1, Unknown = blank
+
+Change_T_Score; Improved = 0, No change = 1, Unknown = blank, Worsened = 2
+
+Change_Risk_Segment; Improved = 0, No change = 1, Unknown = blank, Worsened = 2
+
+Adherent_Flag = Non-Adherent = 0, Adherent = 1
+
+Idn_Indicator; N = 0, Y = 1
+
+Injectable_Experience_During_Rx; N = 0, Y = 1
+
+Comorb_Encounter_For_Screening_For_Malignant_Neoplasms; N = 0, Y = 1
+
+Comorb_Encounter_For_Immunization; N = 0, Y = 1
+
+Comorb_Encntr_For_General_Exam_W_O_Complaint,_Susp_Or_Reprtd_Dx; N = 0, Y = 1
+
+Comorb_Vitamin_D_Deficiency; N = 0, Y = 1
+
+Comorb_Other_Joint_Disorder_Not_Elsewhere_Classified; N = 0, Y = 1
+
+Comorb_Encntr_For_Oth_Sp_Exam_W_O_Complaint_Suspected_Or_Reprtd_Dx; N = 0, Y = 1
+
+Comorb_Long_Term_Current_Drug_Therapy; N = 0, Y = 1
+
+Comorb_Dorsalgia; N = 0, Y = 1
+
+Comorb_Personal_History_Of_Other_Diseases_And_Conditions; N = 0, Y = 1
+
+Comorb_Other_Disorders_Of_Bone_Density_And_Structure; N = 0, Y = 1
+
+Comorb_Disorders_of_lipoprotein_metabolism_and_other_lipidemias; N = 0, Y = 1
+
+Comorb_Osteoporosis_without_current_pathological_fracture; N = 0, Y = 1
+
+Comorb_Personal_history_of_malignant_neoplasm; N = 0, Y = 1
+
+Comorb_Gastro_esophageal_reflux_disease; N = 0, Y = 1
+
+Concom_Cholesterol_And_Triglyceride_Regulating_Preparations; N = 0, Y = 1
+
+Concom_Narcotics; N = 0, Y = 1
+
+Concom_Systemic_Corticosteroids_Plain; N = 0, Y = 1
+
+Concom_Anti_Depressants_And_Mood_Stabilisers; N = 0, Y = 1
+
+Concom_Fluoroquinolones; N = 0, Y = 1
+
+Concom_Cephalosporins; N = 0, Y = 1
+
+Concom_Macrolides_And_Similar_Types; N = 0, Y = 1
+
+Concom_Broad_Spectrum_Penicillins; N = 0, Y = 1
+
+Concom_Anaesthetics_General; N = 0, Y = 1
+
+Concom_Viral_Vaccines; N = 0, Y = 1
+
+Risk_Type_1_Insulin_Dependent_Diabetes; N = 0, Y = 1
+
+Risk_Osteogenesis_Imperfecta; N = 0, Y = 1
+
+Risk_Rheumatoid_Arthritis; N = 0, Y = 1
+
+Risk_Untreated_Chronic_Hyperthyroidism; N = 0, Y = 1
+
+Risk_Untreated_Chronic_Hypogonadism; N = 0, Y = 1
+
+Risk_Untreated_Early_Menopause; N = 0, Y = 1
+
+Risk_Patient_Parent_Fractured_Their_Hip; N = 0, Y = 1
+
+Risk_Smoking_Tobacco; N = 0, Y = 1
+
+Risk_Chronic_Malnutrition_Or_Malabsorption; N = 0, Y = 1
+
+Risk_Chronic_Liver_Disease; N = 0, Y = 1
+ 
+Risk_Family_History_Of_Osteoporosis; N = 0, Y = 1
+
+Risk_Low_Calcium_Intake; N = 0, Y = 1
+
+Risk_Vitamin_D_Insufficiency; N = 0, Y = 1
+
+Risk_Poor_Health_Frailty; N = 0, Y = 1
+
+Risk_Excessive_Thinness; N = 0, Y = 1
+
+Risk_Hysterectomy_Oophorectomy; N = 0, Y = 1
+
+Risk_Estrogen_Deficiency; N = 0, Y = 1
+
+Risk_Immobilization; N = 0, Y = 1
+
+Risk_Recurring_Falls; N = 0, Y = 1
+
+
+
+
+
+
+
+
+
+

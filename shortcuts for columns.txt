@@ -1,0 +1,66 @@
+Ntm Speciality Flag ========================================================= NSF
+Ntm Flag ==================================================================== NF
+Ntm Speciality Bucket ======================================================= NSB
+Gluco Record Prior Ntm ====================================================== GRPN
+Gluco Record During Rx ====================================================== GRDR
+Dexa Freq During Rx ========================================================= DFDR
+Dexa During Rx ============================================================== DDR
+Frag Frac Prior Ntm ========================================================= FFPN
+Frag Frac During Rx ========================================================= FFDR
+Risk Segment Prior Ntm ====================================================== RSPN
+Tscore Bucket Prior Ntm ===================================================== TBPN
+Risk Segment During Rx ====================================================== RSDR
+Tscore Bucket During Rx ===================================================== TBDR
+Change T Score ============================================================== CTS
+Change Risk Segment ========================================================= CRS
+Adherent Flag =============================================================== AF
+Idn Indicator =============================================================== II
+Injectable Experience During Rx ============================================= IEDR
+Comorb Encounter For Screening For Malignant Neoplasms ====================== CEFSFMN
+Comorb_Encounter_For_Immunization =========================================== CEFI
+Comorb_Encntr_For_General_Exam_W_O_Complaint,_Susp_Or_Reprtd_Dx ============= CEFGEWOC,SOPD
+Comorb_Vitamin_D_Deficiency ================================================= CVDD
+Comorb_Other_Joint_Disorder_Not_Elsewhere_Classified ======================== COJDNEC
+Comorb_Encntr_For_nth_Sp_Exam_W_O_Complaint_Suspected_Or_Reprtd_Dx ========== CEFOSEWOCSORD
+Comorb_Long_Term_Curre0t_Drug_Therapy ======================================= CLTCDT
+Comorb_Dorsalgia ============================================================ CD
+Comorb_Personal_History_Of_Other_Diseases_And_Conditions ==================== CPHOODAC
+Comorb_Other_Disorders_Of_Bone_Density_And_Structure ======================== CPDOBDAS
+Comorb_Disorders_of_lipoprotein_metabolism_and_other_lipidemias ============= CDOLMAOL
+Comorb_Osteoporosis_without_current_pathological_fracture =================== CNWCPF
+Comorb_Personal_history_of_malignant_neoplasm =============================== CPHOMN
+Comorb_Gastro_esophageal_reflux_disease ===================================== CGERD
+Co0com_Cholesterol_And_Triglyceride_Regulating_Preparations ================= CCATRP
+Co0com_narcotics ============================================================ CN
+Co0com_Systemic_Corticosteroids_Plain ======================================= CSCP
+Co0com_Anti_Depressants_And_Mood_Stabilisers ================================ CADAMS
+Co0com_Fluoroquinolones ===================================================== CF
+Co0com_Cephalosporins ======================================================= CC
+Co0com_Macrolides_And_Similar_Types ========================================= CMAST
+Co0com_Broad_Spectrum_Penicillins =========================================== CBSP
+Co0com_Anaesthetics_General ================================================= CAG
+Co0com_Viral_Vaccines ======================================================= CVV
+Risk_Type_1_Insulin_Dependent_Diabetes ====================================== RT1IDD
+Risk_Osteogenesis_Imperfecta ================================================ ROI
+Risk_Rheumatoid_Arthritis =================================================== RRA
+Risk_Untreated_Chronic_Hypogonadism ========================================= RUCH1
+Risk_Untreated_Chronic_Hyperthyroidism======================================= RUCH
+Risk_Untreated_Early_Menopause ============================================== RUEM
+Risk_Patient_Parent_Fractured_Their_Hip ===================================== RPPFTH
+Risk_Smoking_Tobacco ======================================================== RST
+Risk_Chronic_Malnutrition_Or_Malabsorption ================================== RCMOM
+Risk_Chronic_Liver_Disease ================================================== RCLD
+Risk_Family_History_Of_Osteoporosis ========================================= RFHON
+Risk_Low_Calcium_Intake ===================================================== RLCI
+Risk_Vitamin_D_Insufficiency ================================================ RVDI
+Risk_Poor_Health_Frailty ==================================================== RPHF
+Risk_Excessive_Thinness ===================================================== RET
+Risk_Hysterectomy_Oophorectomy ============================================== RHO
+Risk_Estrogen_Deficiency ==================================================== RED
+Risk_Immobilization ========================================================= RI
+Risk_Recurring_Falls ======================================================== RRF
+Count_Of_Risks ============================================================== COR
+
+
+
+
